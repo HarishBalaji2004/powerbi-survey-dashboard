@@ -40,6 +40,7 @@ Enabled comparisons across job roles, industries, and demographics
 Generated structured PDF reports summarizing insights from the dashboard
 
 🔹 Dashboard Pages
+
 1️⃣ Demographic Analysis
 
 Insights on gender, age, education, industry, and country of respondents
