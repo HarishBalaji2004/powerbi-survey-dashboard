@@ -1,4 +1,5 @@
 📊 Data Professional Survey Analysis – Power BI Dashboard
+
 🔹 Project Overview
 
 This project presents a comprehensive Power BI dashboard analyzing survey data from data professionals. The dashboard provides actionable insights on demographics, salaries, and job satisfaction, demonstrating a complete data analytics workflow from data preparation to visualization and reporting.
