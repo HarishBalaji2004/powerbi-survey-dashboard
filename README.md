@@ -1,39 +1,73 @@
-# powerbi-survey-dashboard
-📊 Project Title: Data Analysis Pipeline – ETL & Visualization
+📊 Data Professional Survey Analysis – Power BI Dashboard
+🔹 Project Overview
 
-This project demonstrates an end-to-end data analysis workflow using real-world datasets. The complete process follows the ETL (Extract, Transform, Load) pipeline to convert raw data into meaningful insights.
+This project presents a comprehensive Power BI dashboard analyzing survey data from data professionals. The dashboard provides actionable insights on demographics, salaries, and job satisfaction, demonstrating a complete data analytics workflow from data preparation to visualization and reporting.
 
-🔍 Project Workflow
+🔹 Data Analytics Workflow
+1. Data Collection
 
-Data Collection (Extract)
-Collected raw dataset from a public/open data source.
+Utilized a public survey dataset of data professionals to gather insights on roles, salaries, and career satisfaction.
 
-Data Cleaning
+2. Data Cleaning
 
-Removed missing and duplicate values
+Removed missing and duplicate entries
 
-Handled outliers and inconsistent data
+Standardized column names
 
-Standardized column formats
+Corrected inconsistent data formats
 
-Data Transformation (Transform)
+3. Data Transformation
 
-Converted data types
+Grouped and categorized salary ranges
 
-Normalized and structured the data
+Converted text data to appropriate numeric types
 
-Created new calculated fields and metrics
+Created calculated columns for analysis
 
-Data Loading (Load)
+4. Data Loading
 
-Stored the processed data into structured format (CSV/Database)
+Loaded cleaned and transformed dataset into Power BI for analysis
 
-Data Visualization
+5. Data Visualization
 
-Created interactive charts and dashboards
+Developed interactive dashboards using bar charts, column charts, and other visuals
 
-Used visualization tools to highlight trends and insights
+Enabled comparisons across job roles, industries, and demographics
 
-Report Generation
+6. Report Generation
 
-Generated summary reports with key findings and business insights
+Generated structured PDF reports summarizing insights from the dashboard
+
+🔹 Dashboard Pages
+1️⃣ Demographic Analysis
+
+Insights on gender, age, education, industry, and country of respondents
+
+2️⃣ Salary & Career Analysis
+
+Average salary comparisons by job role, industry, and country
+
+Trends in career progression and job switching
+
+3️⃣ Job Satisfaction Analysis
+
+Analysis of work-life balance, management satisfaction, learning opportunities, and upward mobility
+
+🔹 Tools & Technologies
+
+Microsoft Power BI – Dashboard creation and interactive visualizations
+
+Microsoft Excel – Data cleaning and preprocessing
+
+🔹 Key Learnings
+
+Practical experience in the ETL (Extract, Transform, Load) process
+
+Implementing data visualization best practices
+
+Building business intelligence reports for data-driven decision making
+
+👤 Author
+
+Harish Balaji
+B.Tech in Computer Science (Data Science)
